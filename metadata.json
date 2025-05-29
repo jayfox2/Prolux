@@ -1,0 +1,5 @@
+{
+  "name": "AI Voice-Image Synchronizer",
+  "description": "Upload an audio file and an image to create a synchronized animation. This application simulates AI-powered media generation, providing a user interface to upload media and initiate a mock synchronization process.",
+  "requestFramePermissions": []
+}
